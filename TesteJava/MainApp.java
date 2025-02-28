@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class MainApp{
     public static void main(String[]args){
-        ArryList<Hospede> hospedes = new ArryList<Hospede>();
+        ArrayList<Hospede> hospedes = new ArrayList<Hospede>();
         /* Hospede Henrique = new Hospede("Henrique Alencar");
         Henrique.endereco = "Rua Claudino Barbosa";
         Henrique.documento = "514.206.908-09";
